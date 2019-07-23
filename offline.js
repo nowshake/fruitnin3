@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1563800433,
+	"version": 1563825679,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -39,6 +39,7 @@
 		"images/banna_half_2-sheet0.png",
 		"images/sprite9-sheet0.png",
 		"images/sprite5-sheet0.png",
+		"images/sprite6-sheet0.png",
 		"media/blad_min_wav.m4a",
 		"media/blad_min_wav.ogg",
 		"media/explosion_wav.m4a",
